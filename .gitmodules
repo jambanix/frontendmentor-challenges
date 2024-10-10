@@ -7,3 +7,6 @@
 [submodule "recipe-page"]
 	path = recipe-page
 	url = https://github.com/jambanix/frontendmentor_recipe-page
+[submodule "workit-landing-page"]
+	path = workit-landing-page
+	url = https://github.com/jambanix/frontendmentor_workit-landing-page
