@@ -31,3 +31,6 @@
 [submodule "base-apparel-coming-soon-page"]
 	path = base-apparel-coming-soon-page
 	url = https://github.com/jambanix/frontendmentor_base-apparel-coming-soon-page
+[submodule "intro-component-with-signup-form"]
+	path = intro-component-with-signup-form
+	url = https://github.com/jambanix/frontendmentor_intro-component-with-signup-form
