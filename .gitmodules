@@ -19,3 +19,6 @@
 [submodule "skilled-elearning-landing-page"]
 	path = skilled-elearning-landing-page
 	url = https://github.com/jambanix/frontendmentor_skilled-elearning-landing-page
+[submodule "faq-accordion"]
+	path = faq-accordion
+	url = https://github.com/jambanix/frontendmentor_faq-accordion
