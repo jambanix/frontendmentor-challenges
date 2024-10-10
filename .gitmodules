@@ -25,3 +25,6 @@
 [submodule "interactive-rating-component"]
 	path = interactive-rating-component
 	url = https://github.com/jambanix/frontendmentor_interactive-rating-component
+[submodule "article-preview-component"]
+	path = article-preview-component
+	url = https://github.com/jambanix/frontendmentor_article-preview-component
