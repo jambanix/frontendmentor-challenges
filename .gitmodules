@@ -28,3 +28,6 @@
 [submodule "article-preview-component"]
 	path = article-preview-component
 	url = https://github.com/jambanix/frontendmentor_article-preview-component
+[submodule "base-apparel-coming-soon-page"]
+	path = base-apparel-coming-soon-page
+	url = https://github.com/jambanix/frontendmentor_base-apparel-coming-soon-page
