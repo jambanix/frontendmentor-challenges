@@ -16,3 +16,6 @@
 [submodule "product-preview-card"]
 	path = product-preview-card
 	url = https://github.com/jambanix/frontendmentor_product-preview-card
+[submodule "skilled-elearning-landing-page"]
+	path = skilled-elearning-landing-page
+	url = https://github.com/jambanix/frontendmentor_skilled-elearning-landing-page
