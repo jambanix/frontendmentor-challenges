@@ -13,3 +13,6 @@
 [submodule "results-summary-component"]
 	path = results-summary-component
 	url = https://github.com/jambanix/frontendmentor_results-summary-component
+[submodule "product-preview-card"]
+	path = product-preview-card
+	url = https://github.com/jambanix/frontendmentor_product-preview-card
