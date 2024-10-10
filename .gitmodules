@@ -1,3 +1,6 @@
 [submodule "social-links-profile"]
 	path = social-links-profile
 	url = https://github.com/jambanix/frontendmentor_social-links-profile
+[submodule "blog-preview-card"]
+	path = blog-preview-card
+	url = https://github.com/jambanix/frontendmentor_blog-preview-card
