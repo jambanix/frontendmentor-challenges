@@ -4,3 +4,6 @@
 [submodule "blog-preview-card"]
 	path = blog-preview-card
 	url = https://github.com/jambanix/frontendmentor_blog-preview-card
+[submodule "recipe-page"]
+	path = recipe-page
+	url = https://github.com/jambanix/frontendmentor_recipe-page
