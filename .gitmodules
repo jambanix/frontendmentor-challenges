@@ -34,3 +34,6 @@
 [submodule "intro-component-with-signup-form"]
 	path = Vanilla/intro-component-with-signup-form
 	url = https://github.com/jambanix/frontendmentor_intro-component-with-signup-form
+[submodule "frontendmentor_product_list_with_cart_react"]
+	path = frontendmentor_product_list_with_cart_react
+	url = https://github.com/jambanix/frontendmentor_product_list_with_cart_react
