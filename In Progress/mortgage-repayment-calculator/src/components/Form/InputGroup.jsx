@@ -2,10 +2,12 @@
 import { Input } from "../Input"
 import { useRef } from "react";
 
-export const InputGroup = ({onChange}) => {
+export const InputGroup = ({onChange, values}) => {
 
   const inputText = useRef();
   const handleChange = (event) => onChange(event);
+
+  
   
 
   return (
@@ -18,6 +20,7 @@ export const InputGroup = ({onChange}) => {
           orientationRight={false}
           onChange={handleChange}
           ref={inputText}
+          value={values.mortgageAmount}
         />
         <Input
           containerClassName="sm:col-start-1"
@@ -26,6 +29,7 @@ export const InputGroup = ({onChange}) => {
           infoText="years"
           onChange={handleChange}
           ref={inputText}
+          value={values.mortgageTerm}
         />
         <Input
           containerClassName="sm:col-start-2"
@@ -34,6 +38,7 @@ export const InputGroup = ({onChange}) => {
           infoText="%"
           onChange={handleChange}
           ref={inputText}
+          value={values.mortgageRate}
         />
       </fieldset>
   )
