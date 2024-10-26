@@ -14,6 +14,7 @@ export const Option = ({ name, label, checked, onSelect }) => {
         name={name}
         id={name}
         checked={checked}
+        readOnly={true}
         ref={selected}
       />
       <label htmlFor={name}>{label}</label>

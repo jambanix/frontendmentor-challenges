@@ -1,7 +1,13 @@
 
 import { Input } from "../Input"
+import { useRef } from "react";
 
-export const InputGroup = () => {
+export const InputGroup = ({onChange}) => {
+
+  const inputText = useRef();
+  const handleChange = (event) => onChange(event);
+  
+
   return (
     <fieldset className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         <Input
@@ -10,18 +16,24 @@ export const InputGroup = () => {
           label="Mortgage Amount"
           infoText="£"
           orientationRight={false}
+          onChange={handleChange}
+          ref={inputText}
         />
         <Input
           containerClassName="sm:col-start-1"
           name="mortgageTerm"
           label="Mortgage Term"
           infoText="years"
+          onChange={handleChange}
+          ref={inputText}
         />
         <Input
           containerClassName="sm:col-start-2"
           name="mortgageRate"
           label="Interest Rate"
           infoText="%"
+          onChange={handleChange}
+          ref={inputText}
         />
       </fieldset>
   )

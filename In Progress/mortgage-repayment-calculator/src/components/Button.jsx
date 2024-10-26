@@ -1,6 +1,6 @@
 
-export const Button = ({children}) => {
+export const Button = ({children, disabled}) => {
   return (
-    <button className="rounded-full bg-lime text-slate-900 max-w-[314px] h-12 hover:contrast-125">{children}</button>
+    <button disabled={disabled} className={`rounded-full bg-lime transition-all text-slate-900 max-w-[314px] h-12 hover:contrast-125 ${disabled ? "hidden" : "visible"}`}>{children}</button>
   )
 }
