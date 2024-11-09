@@ -40,3 +40,6 @@
 [submodule "React/frontendmentor_github_user_search_app_react"]
 	path = React/github-user-search-app
 	url = https://github.com/jambanix/frontendmentor_github_user_search_app_react
+[submodule "React/frontendmentor_mortgage-repayment-calculator"]
+	path = React/mortgage-repayment-calculator
+	url = https://github.com/jambanix/frontendmentor_mortgage-repayment-calculator.git
