@@ -43,3 +43,6 @@
 [submodule "React/frontendmentor_mortgage-repayment-calculator"]
 	path = React/mortgage-repayment-calculator
 	url = https://github.com/jambanix/frontendmentor_mortgage-repayment-calculator.git
+[submodule "React/frontendmentor_contact-form"]
+	path = React/contact-form
+	url = https://github.com/jambanix/frontendmentor_contact-form.git
