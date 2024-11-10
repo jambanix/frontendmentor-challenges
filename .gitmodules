@@ -49,3 +49,6 @@
 [submodule "React/frontendmentor_newsletter_sign_up"]
 	path = React/newsletter-sign-up
 	url = https://github.com/jambanix/frontendmentor_newsletter_sign_up.git
+[submodule "frontendmentor_age-calculator-app"]
+	path = age-calculator-app
+	url = https://github.com/jambanix/frontendmentor_age-calculator-app.git
