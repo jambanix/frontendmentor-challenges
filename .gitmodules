@@ -55,3 +55,6 @@
 [submodule "React/frontendmentor_notifications-page"]
 	path = React/notifications-page
 	url = https://github.com/jambanix/frontendmentor_notifications-page.git
+[submodule "frontendmentor_expenses-chart-component"]
+	path = React/expenses-chart-component
+	url = https://github.com/jambanix/frontendmentor_expenses-chart-component.git
