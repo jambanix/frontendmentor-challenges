@@ -22,3 +22,4 @@
 | 18 | Age Calculator app | 10/11/2024 | ReactJS, Tailwind | ** | [Code](https://github.com/jambanix/frontendmentor_age-calculator-app) [View](https://jambanix.github.io/frontendmentor_age-calculator-app/) |
 | 19 | Notifications Page | 11/11/2024 | ReactJS, Tailwind | ** | [Code](https://github.com/jambanix/frontendmentor_notifications-page) [View](https://jambanix.github.io/frontendmentor_notifications-page/) |
 | 20 | Expenses Chart Component | 19/11/2024 | ReactJS, Tailwind | ** | [Code](https://github.com/jambanix/frontendmentor_expenses-chart-component) [View](https://jambanix.github.io/frontendmentor_expenses-chart-component/) |
+| 21 | Advice Generator App | 29/11/2024 | ReactJS, Tailwind | ** | [Code](https://github.com/jambanix/frontendmentor_advice-generator-app) [View](https://jambanix.github.io/frontendmentor_advice-generator-app/) |

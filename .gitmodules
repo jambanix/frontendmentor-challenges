@@ -58,3 +58,6 @@
 [submodule "frontendmentor_expenses-chart-component"]
 	path = React/expenses-chart-component
 	url = https://github.com/jambanix/frontendmentor_expenses-chart-component.git
+[submodule "React/frontendmentor_advice-generator-app"]
+	path = React/advice-generator-app
+	url = https://github.com/jambanix/frontendmentor_advice-generator-app.git
