@@ -23,3 +23,4 @@
 | 19 | Notifications Page | 11/11/2024 | ReactJS, Tailwind | ** | [Code](https://github.com/jambanix/frontendmentor_notifications-page) [View](https://jambanix.github.io/frontendmentor_notifications-page/) |
 | 20 | Expenses Chart Component | 19/11/2024 | ReactJS, Tailwind | ** | [Code](https://github.com/jambanix/frontendmentor_expenses-chart-component) [View](https://jambanix.github.io/frontendmentor_expenses-chart-component/) |
 | 21 | Advice Generator App | 29/11/2024 | ReactJS, Tailwind | ** | [Code](https://github.com/jambanix/frontendmentor_advice-generator-app) [View](https://jambanix.github.io/frontendmentor_advice-generator-app/) |
+| 22 | Password Generator App | 03/12/2024 | ReactJS, Tailwind | *** | [Code](https://github.com/jambanix/frontendmentor_password-generator-app) [View](https://jambanix.github.io/frontendmentor_password-generator-app/) |
