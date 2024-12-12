@@ -64,3 +64,6 @@
 [submodule "React/frontendmentor_password-generator-app"]
 	path = React/password-generator-app
 	url = https://github.com/jambanix/frontendmentor_password-generator-app
+[submodule "React/frontendmentor_frontend-quiz-app"]
+	path = React/frontend-quiz-app/frontendmentor_frontend-quiz-app
+	url = https://github.com/jambanix/frontendmentor_frontend-quiz-app.git
